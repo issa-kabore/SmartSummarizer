@@ -41,15 +41,20 @@ python app_gradio.py
 
 
 ## 🚀 Demo
-👉 [Link to deployed app](https://...)
+👉 [Link to deployed app](https://huggingface.co/spaces/Iskabore/multilingual-text-summarizer)
+
 📸 See screenshots below
 
+![alt text](assets/image.png)
+
+Example: uploading file
+![alt text](assets/image1.png)
 
 ## 📂 Project structure 
 ```bash
 SmartSummarizer/
 │
-├── app_gradio.py                # Gradio main script (user interface)
+├── app.py                # Gradio main script (user interface)
 ├── summarizer/
 │   ├── __init__.py             
 │   ├── models.py                # Loading models and pipelines
