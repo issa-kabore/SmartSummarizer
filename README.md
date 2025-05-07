@@ -19,6 +19,8 @@ The project uses **Large Language Models (LLMs)** such as **BART** or **T5**, de
 - [Streamlit](https://streamlit.io) - Web interface
 - [Gradio](https://www.gradio.app/) - Web interface
 - [Python](https://www.python.org) - Processing & pipeline
+- [Data](https://huggingface.co/datasets/abisee/cnn_dailymail/viewer/2.0.0?views%5B%5D=_200_train) - abisee/cnn_dailymail
+
 - (Bonus) Docker, FastAPI, GitHub Actions - MLOps
 
 
