@@ -1,4 +1,9 @@
 transformers
+tiktoken
+blobfile
+sentencepiece
 torch
 langdetect
 gradio  # or streamlit
+fpdf2  # for pdf support writing
+pypdf2 # for pdf support reading
