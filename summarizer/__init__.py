@@ -1,0 +1,1 @@
+INPUT_MIN_SIZE = 17
